@@ -1,6 +1,6 @@
-#How To Contribute
+# How To Contribute
 
-We'd love to accept your patches and contributions to this project. There are just a few small guidelines you need to follow which are described in detail below.
+We'd love to accept your patches and contributions to this project. There are just a few guidelines you need to follow which are described in detail below.
 
 1. Fork this repo
 
@@ -12,7 +12,7 @@ Work for each new feature/issue should occur in its own branch. To create a new 
 ```shell
 git checkout -b my-new-feature
 ```
-where my-new-feature describes the ticket that you're working on.
+where "my-new-feature" describes what you're working on.
 
 3. Check code style
 
@@ -22,11 +22,11 @@ Before opening a pull request, your new code should conform to the style guide. 
 
 5. Add documentation for new or updated functionality
 
-Please review any of the .md files in this project to see if they are impacted by your change and update them accordingly.
+Please review all of the .md files in this project to see if they are impacted by your change and update them accordingly.
 
 6. Add to CHANGELOG.md
 
-Any notable changes that are made should be recorded in the CHANGELOG.md following the [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) conventions.
+Any notable changes should be recorded in the CHANGELOG.md following the [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) conventions.
 
 8. Submit Pull Request and describe the change
 
@@ -36,7 +36,7 @@ Push your changes to your branch and open a pull request against the parent repo
 
 Upon Pull Request submission, your code will be reviewed by the maintainers. They will confirm at least the following:
 
-- Tests run successfully. (unit, coverage, integration, style)
+- Tests run successfully (unit, coverage, integration, style).
 - Contribution policy has been followed.
 
 Two (human) reviewers will need to sign off on your Pull Request before it can be merged.

@@ -3,7 +3,7 @@
 This repository contains a template you can use to seed a repository for a
 new open source project.
 
-This template uses the Apache license, as is Expedia Group's default.
+This template uses the Apache license (Expedia Group's default).
 
 ## How to use this template
 
@@ -31,10 +31,10 @@ git commit -a -m 'Boilerplate for new Expedia Group open source project'
 
 Every file containing source code must include copyright and license
 information. This includes any JS/CSS files that you might be serving out to
-browsers. (This is to help well-intentioned people avoid accidental copying that
-doesn't comply with the license.)
+browsers (this is to help well-intentioned people avoid accidental copying that
+doesn't comply with the license).
 
-Apache header:
+### Apache header:
 
     Copyright 2019 Expedia, Inc
 
