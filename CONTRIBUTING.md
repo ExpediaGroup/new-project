@@ -14,11 +14,11 @@ git checkout -b my-new-feature
 ```
 where "my-new-feature" describes what you're working on.
 
-## 3. Check code style
+## 3. Add tests for any bug fixes or new functionality
 
-Before opening a pull request, your new code should conform to the style guide. TODO: look into editorconfig as an option for this
+## 4. Check code style
 
-## 4. Add tests for any bug fixes or new functionality
+Before opening a pull request, ensure that your new code conforms to the code style as defined by the [EditorConfig](https://editorconfig.org/) file in the root of the project.
 
 ## 5. Add documentation for new or updated functionality
 
