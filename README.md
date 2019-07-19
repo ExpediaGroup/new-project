@@ -17,7 +17,7 @@ This template uses the Apache license (Expedia Group's default).
 1. Develop your new project!
 
 ``` shell
-git clone https://github.com/HotelsDotCom/new-project
+git clone https://github.com/ExpediaGroup/new-project
 mkdir my-new-thing
 cd my-new-thing
 git init
