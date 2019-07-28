@@ -9,12 +9,12 @@ This template uses the Apache license (Expedia Group's default).
 
 1. Check it out from GitHub.
     * There is no reason to fork it.
-1. Create a new local repository and copy the files from this repo into it.
-1. Modify `README.md` and `CONTRIBUTING.md` to represent your project, not the
+2. Create a new local repository and copy the files from this repo into it.
+3. Modify the `README.md`, `CONTRIBUTING.md`, and any files under `.github/` to represent your project, not the
    template project. Replace the `PUT_YOUR_TEAM_CONTACT_DETAILS_HERE` in 
    `CODE-OF-CONDUCT.md` with your team details (public email address or link 
    to GitHub team details).
-1. Develop your new project!
+4. Develop your new project!
 
 ``` shell
 git clone https://github.com/ExpediaGroup/new-project
