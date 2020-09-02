@@ -36,7 +36,7 @@ doesn't comply with the license).
 
 ### Apache header:
 
-    Copyright 2019 Expedia, Inc
+    Copyright 2020 Expedia, Inc
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -55,4 +55,4 @@ This project is based on [Google's New Project template](https://github.com/goog
 
 This project is available under the [Apache 2.0 License](http://www.apache.org/licenses/LICENSE-2.0.html).
 
-Copyright 2019 Expedia, Inc.
+Copyright 2020 Expedia, Inc.
