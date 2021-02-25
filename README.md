@@ -51,6 +51,7 @@ doesn't comply with the license).
     limitations under the License.
 
 # Legal
+
 This project is based on [Google's New Project template](https://github.com/google/new-project).
 
 This project is available under the [Apache 2.0 License](http://www.apache.org/licenses/LICENSE-2.0.html).
