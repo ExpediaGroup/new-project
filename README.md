@@ -1,40 +1,32 @@
 # New Project Template
 
-This repository contains a template you can use to seed a repository for a
-new open source project.
+This repository contains a template that can be used to seed a repository for a new open source project.
 
 This template uses the Apache license (Expedia Group's default).
 
 ## How to use this template
 
-1. Check it out from GitHub.
-    * There is no reason to fork it.
-2. Create a new local repository and copy the files from this repo into it.
-3. Modify the `README.md`, `CONTRIBUTING.md`, and any files under `.github/` to represent your project, not the
-   template project. Replace the `PUT_YOUR_TEAM_CONTACT_DETAILS_HERE` in 
-   `CODE-OF-CONDUCT.md` with your team details (public email address or link 
-   to GitHub team details).
-4. Develop your new project!
-
-``` shell
-git clone https://github.com/ExpediaGroup/new-project
-mkdir my-new-thing
-cd my-new-thing
-git init
-cp ../new-project/* .
-cp ../new-project/.gitignore .
-git add *
-git commit -a -m 'Boilerplate for new Expedia Group open source project'
-```
+1. In GitHub UI, click "Use this template".
+   - Set the owner is `ExpediaGroup`
+   - Set visibility to `public`
+   - Uncheck "Include all branches"
+2. Clone locally and create a new branch
+3. Code!
+4. Update any applicable files from the template, including `README.md` and `CONTRIBUTING.md`.
+5. Update `.github/dependabot.yml` to also include package updates for any languages used.
+6. Use Actions
+   - A pull request workflow is included but needs to be updated to correctly test and lint the project.
+   - A release workflow is included that will create a tag and release on merges to main. See [Semantic Release](https://github.com/semantic-release/semantic-release) for more information.
+7. Develop your new project!
 
 ## Source Code Headers
 
 Every file containing source code must include copyright and license
 information. This includes any JS/CSS files that you might be serving out to
 browsers (this is to help well-intentioned people avoid accidental copying that
-doesn't comply with the license).
+doesn't comply with the license). Test files are considered source code.
 
-### Apache header:
+### Apache header
 
     Copyright 2021 Expedia, Inc.
 
@@ -50,7 +42,7 @@ doesn't comply with the license).
     See the License for the specific language governing permissions and
     limitations under the License.
 
-# Legal
+## Legal
 
 This project is based on [Google's New Project template](https://github.com/google/new-project).
 
