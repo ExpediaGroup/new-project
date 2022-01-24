@@ -28,7 +28,7 @@ doesn't comply with the license). Test files are considered source code.
 
 ### Apache header
 
-    Copyright 2021 Expedia, Inc.
+    Copyright [yyyy] Expedia, Inc.  <-- Remember to replace with the current year here
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
